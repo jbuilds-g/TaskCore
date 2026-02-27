@@ -25,7 +25,7 @@ Why run two extensions when one can do it better? **TaskCore** is designed to re
 This extension utilizes "Security through Obscurity". It is intentionally branded as a generic system task manager to remain inconspicuous in your extension list and to any casual observers.
 
 ### 🚀 Key Features
-* **Functional False Front (v1.1.0):** A native dark-mode interface for managing daily tasks (Full CRUD capabilities).
+* **Functional False Front:** A native dark-mode interface for managing daily tasks (Full CRUD capabilities).
 * **Terminal Lock UI:** An unbranded, high-performance system shell for authentication.
 * **Granular Security Panel:** View all locked domains and remove them individually.
 * **PIN-Gated Unblocking:** Master PIN is required to remove a domain from the lock list.
